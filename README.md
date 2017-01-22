@@ -1,2 +1,3 @@
 # exercise-repro
-Repro made for exercise
+This project will contain...
+Reprository made for exercise and testing.
